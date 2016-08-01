@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="date">#fffff0</color>
+    <color name="am_pm">#aaaaa0</color>
+    <color name="colons">#aaaaa0</color>
+    <color name="config_activity_background">#ffffff</color>
+    <color name="config_activity_header_text_color">#959595</color>
+    <color name="color_item_label_color">#000000</color>
+    <color name="color_item_circle_border_color">#424242</color>
+
+    <string name="bg_color">#0099ff</string>
+</resources>

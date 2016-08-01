@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sunshinewear</string>
+    <string name="digital_am">AM</string>
+    <string name="digital_pm">PM</string>
+
+    <!-- Key name for storing location in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_location_key" translatable="false">location</string>
+
+    <!-- Key name for storing location status in SharedPreferences -->
+    <string name="pref_location_status_key" translatable="false">loc-status</string>
+
+    <!-- Key name for storing location latlong in SharedPreferences -->
+    <string name="pref_location_latitude" translatable="false">loc-latitude</string>
+    <string name="pref_location_longitude" translatable="false">loc-longitude</string>
+
+    <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
+    <string name="pref_location_default" translatable="false">94043</string>
+    <string name="list">list</string>
+    <string name="temp">temp</string>
+    <string name="max">max</string>
+    <string name="min">min</string>
+    <string name="weather">weather</string>
+    <string name="id">id</string>
+</resources>
